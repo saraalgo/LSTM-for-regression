@@ -1,0 +1,8 @@
+# Proprietary data
+data/00-Raw/Climate/*
+data/00-Raw/Main/*
+data/00-Raw/Climate/*
+data/01-Preprocessing/main.pkl
+data/01-Preprocessing/main_output.pkl
+data/01-Preprocessing/climate.pkl
+data/01-Preprocessing/data.pkl
