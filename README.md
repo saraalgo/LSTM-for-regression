@@ -8,7 +8,7 @@
 3. To enable its readability, it is already ran with the real data used.
 
 ## Purpose
-The objective of this project was to calculate the **AREA PLANTED** for the next year on each country of the US. For getting this values, four approximations have been tested and benchmarked:
+The objective of this project was to calculate the **Total area planted** for the next year on each country of the US. That is why agronomy and weather data is used. For getting this values, four approximations have been tested and benchmarked:
 
 1. Creating a **LSTM** model that predicts the output by each state, creating a model per each unique case.
 2. Creating a **Autoencoder** + **LSTM** model that predicts the output by each state, creating a model per each unique case.
